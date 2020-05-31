@@ -45,7 +45,6 @@ c.setSpeed(100);
 	b.penDown();
 	c.penDown();
 	
-
 	
 	a.move(25);
 	a.turn(90);
